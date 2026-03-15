@@ -45,7 +45,7 @@ I’m focusing on **industry-relevant, modern full stack development**, followin
 ---
 
 ### 📌 Projects & Content
-- **MY Portfolio Website** –
+- **MY Portfolio Website** – 🔗 https://sinejhon.studio
 
 - **Explore Arba Minch** – Travel & destination content focused on Arba Minch
   
