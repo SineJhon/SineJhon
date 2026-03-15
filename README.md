@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sinishaw Yohannes
 
-I'm a **4th-year Software Engineering student** at **Arba Minch University**, based in **Arba Minch, Ethiopia**.  
+I'm a **HTML and CSS Developer**, a **4th-year Software Engineering student** at **Arba Minch University**, based in **Arba Minch, Ethiopia**.  
 Currently, I’m doing a **Full Stack Web Development internship** at the **Gamo Zone Science and Technology Department**.
 
 ---
@@ -18,7 +18,7 @@ Currently, I’m doing a **Full Stack Web Development internship** at the **Gamo
 
 ---
 ### 🚀 Currently Working As
-**HTML Developer**
+**HTML & CSS Developer**
 
 ---
 ### 🚀 What I’m Currently Learning
