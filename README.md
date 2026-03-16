@@ -1,74 +1,72 @@
-## Hi there 👋 I'm Sinishaw Yohannes
+# Hi there 👋 I'm Sinishaw Yohannes
 
-I'm a **HTML and CSS Developer**, a **4th-year Software Engineering student** at **Arba Minch University**, based in **Arba Minch, Ethiopia**.  
-Currently, I’m doing a **Full Stack Web Development internship** at the **Gamo Zone Science and Technology Department**.
+I'm a **Full Stack Web Developer** and a **4th-year Software Engineering student** at **Arba Minch University**, based in **Arba Minch, Ethiopia**.  
+Currently, I’m working professionally as a **Full Stack Web Developer**, building scalable web applications and modern web systems.
 
 ---
 
-### 🎓 Education
+## 🎓 Education
 - **BSc in Software Engineering**  
   Arba Minch University — *Currently on 4th Year*
 
 ---
 
-### 💼 Internship
-- **Full Stack Web Development Intern**  
+## 💼 Experience
+- **Full Stack Web Developer**  
   Gamo Zone Science and Technology Department  
-  *(Frontend, Backend, Databases, real-world systems)*
-
----
-### 🚀 Currently Working As
-**HTML & CSS Developer**
-
----
-### 🚀 What I’m Currently Learning
-I’m focusing on **industry-relevant, modern full stack development**, following current market demand:
-
-**Web Development Stack**
-- Frontend: **HTML, CSS, JavaScript, React**
-- Backend: **Node.js, Express**
-- Database: **MongoDB & SQL**
-- Version Control: **Git & GitHub**
-- Deployment: **Vercel / Netlify**
-- API Development & RESTful Services
+  *(Frontend, Backend, Databases, APIs, Deployment, real-world applications)*
 
 ---
 
-### 🛠️ Skills & Interests
-- 💻 Software Engineering & Web Development
-- 🎥 Videography & Video Editing (CapCut, mobile and PC workflow)
-- 🎨 Basic Graphic Design
-- 📱 Social Media Management & Content Strategy
-- 🌍 Travel Content Creation
-- 💪 Fitness Content Creation
+## 🚀 Currently Working As
+**Full Stack Web Developer**  
+Building responsive websites, full-stack applications, and real-world systems.
 
 ---
 
-### 📌 Projects & Content
-- **MY Portfolio Website** – 🔗 https://sinejhon.studio
+## 🛠️ Tech Stack & Skills
+I work with **industry-standard, modern technologies** to build scalable, maintainable, and efficient software:  
 
-- **Explore Arba Minch** – Travel & destination content focused on Arba Minch
-  
-🔗 *(https://youtube.com/@explorearbaminch?si=_OKWiXbFA3iln7Xk)*
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Node.js, Express  
+**Database:** MongoDB & SQL  
+**Version Control:** Git & GitHub  
+**Deployment & Hosting:** Vercel, Netlify  
+**APIs:** RESTful API Design, JWT Authentication  
+
+**Other Skills & Interests:**  
+- 💻 Software Engineering & Web Development  
+- 🎥 Videography & Video Editing (CapCut, mobile & PC workflow)  
+- 🎨 Graphic Design & Visual Storytelling  
+- 📱 Social Media Management & Content Strategy  
+- 🌍 Travel Content Creation  
+- 💪 Fitness Content Creation  
+
+---
+
+## 📌 Projects & Content
+- **My Portfolio Website** – 🔗 [sinejhon.studio](https://sinejhon.studio)  
+
+- **Explore Arba Minch** – Travel & destination content for Arba Minch  
+🔗 [YouTube Channel](https://youtube.com/@explorearbaminch?si=_OKWiXbFA3iln7Xk)  
 
 - **Besu Fitness** – Fitness content creation & social media management  
-
-🔗 *(https://youtube.com/@besufitness?si=JKbIcN6xJBFbxNpi)*
-
----
-
-### 🌱 Goals
-- Become a **professional Full Stack Web Developer**
-- Build impactful **software products**
-- Combine **technology, content creation, and business**
+🔗 [YouTube Channel](https://youtube.com/@besufitness?si=JKbIcN6xJBFbxNpi)  
 
 ---
 
-### 📫 Let’s Connect
-- GitHub: *You’re already here 🙂*
-- LinkedIn: *www.linkedin.com/in/sinishaw-yohannes-0b7609252*
-- Email: *Sinishawyohannes.dev@gmail.com*
+## 🌱 Goals
+- Build impactful and **scalable web applications**  
+- Grow as a **professional Full Stack Web Developer**  
+- Combine **technology, content creation, and business** to deliver solutions  
 
 ---
 
-⚡ *Always learning, building, and improving.*
+## 📫 Let’s Connect
+- GitHub: *You’re already here 🙂*  
+- LinkedIn: [linkedin.com/in/sinishaw-yohannes-0b7609252](https://www.linkedin.com/in/sinishaw-yohannes-0b7609252)  
+- Email: Sinishawyohannes.dev@gmail.com  
+
+---
+
+⚡ *Building, deploying, and continuously improving web applications.*
