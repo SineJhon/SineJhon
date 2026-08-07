@@ -7,7 +7,7 @@ Currently, I’m working professionally as a **Full Stack Web Developer**, build
 
 ## 🎓 Education
 - **BSc in Software Engineering**  
-  Arba Minch University — *Currently on 4th Year*
+  Arba Minch University — *Currently on 5th Year*
 
 ---
 
@@ -45,7 +45,9 @@ I work with **industry-standard, modern technologies** to build scalable, mainta
 ---
 
 ## 📌 Projects & Content
-- **My Portfolio Website** – 🔗 [sinejhon.studio](https://sinejhon.studio)  
+- **My Portfolio Website** – 🔗 [sinejhon.codes](https://sinejhon.codes)  
+
+- **My Get To Know Me Website** – 🔗 [sinejhon.studio](https://sinejhon.studio)  
 
 - **Explore Arba Minch** – Travel & destination content for Arba Minch  
 🔗 [YouTube Channel](https://youtube.com/@explorearbaminch?si=_OKWiXbFA3iln7Xk)  
